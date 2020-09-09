@@ -6,7 +6,7 @@
 <b>Discipline | <b>Electronic and Communication Engineering
 :--|:--|
 <b> Lab | <b> Digital Communication Lab
-<b> Experiment|     <b> 1. To Study the generation of Polar RZ and NRZ Line Coding
+<b> Experiment|     <b> 3. To Study the generation of Polar RZ and NRZ Line Coding
 
 <h5> About the Lab (Objective) : </h5>
 
