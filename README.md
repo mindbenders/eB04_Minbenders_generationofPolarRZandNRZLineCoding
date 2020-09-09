@@ -1,56 +1,60 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
+
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Electronic and Communication Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Digital Communication Lab
+<b> Experiment|     <b> 1. To Study the generation of Polar RZ and NRZ Line Coding
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+ In Digital Communication Lab (KEC-651) students will be able to:<br>
+1.	Demonstrate various line coding Techniques.<br>
+2.	Analyze the performance of various digital communication systems.<br> 
+3.	Detect and correct error is transmitted or received bits using various coding schemes.<br>
+4.	Design equipments for modulation and demodulation schemes.<br>
+
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+Student will be able to demonstrate the Polar RZ and NRZ line coding Technique.
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+ ECE Sixth Semester (Third Year) Students and Faculties
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+Electronics and Communication Engineering
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+  Dr. A.P.J. Abdul Kalam Technical University, Lucknow
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Neeraj Joshi
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> Meerut Institute of Engineering and Technology, Meerut
+<b> Email id|     <b> neeraj.joshi@miet.ac.in
+<b> Department | Electronic and Communication Engineering
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Praveen Kumar Chakravarti
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> Meerut Institute of Engineering and Technology, Meerut 
+<b> Email id|     <b> praveen.chakravarti@miet.ac.in
+<b> Department | Electronic and Communication Engineering
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Palash Zutshi | Student | Electronic and Communication Engineering | Meerut Institute of Engineering and Technology, Meerut  | palash.zutshi.ec.2017@miet.ac.in
+2 | Apoorv Garg | Student |Computer Science and Engineering | Meerut Institute of Engineering and Technology, Meerut |apoorv.garg.cse.2017@miet.ac.in
+3 | Shalini Singh | Student | Electronic and Communication Engineering | Meerut Institute of Engineering and Technology, Meerut |shalini.singh.ec.2017@miet.ac.in
+4 |Muskan Bhardwaj | Student | Electronic and Communication Engineering | Meerut Institute of Engineering and Technology, Meerut |muskan.bhardwaj.ec.2017@miet.ac.in
 
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
