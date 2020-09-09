@@ -6,7 +6,7 @@
 <b>Discipline | <b>Electronic and Communication Engineering
 :--|:--|
 <b> Lab | <b> Digital Communication Lab
-<b> Experiment|     <b> 3. To Study the generation of Polar RZ and NRZ Line Coding
+<b> Experiment|     <b> 2. To Study the generation of Polar RZ and NRZ Line Coding
 
 <h5> About the Lab (Objective) : </h5>
 
@@ -44,7 +44,7 @@ Electronics and Communication Engineering
 <b>Mentored by | <b> Praveen Kumar Chakravarti
 :--|:--|
 <b> Institute | <b> Meerut Institute of Engineering and Technology, Meerut 
-<b> Email id|     <b> praveen.chakravarti@miet.ac.in
+<b> Email id|     <b> praveen.chakravarti@gmail.com
 <b> Department | Electronic and Communication Engineering
 
 #### Contributors List
