@@ -19,7 +19,7 @@
 
 <h5> About the Experiment : </h5>
 
-Student will be able to demonstrate the Polar RZ and NRZ line coding Technique.
+Student will be able to demonstrate the Polar RZ and NRZ line coding Technique. <br> 1. Polar NRZ:- In this type of Polar signaling, a high in data is represented by a positive pulse, while a Low in data is represented by a negative pulse. <br> 2. Polar RZ:- In this type of Polar signaling, a high in data, though represented by a Mark pulse, its duration is less than the symbol bit duration. Half of the bit duration remains high but it immediately returns to zero and shows the absence of pulse during the remaining half of the bit duration.
 
 <h5> Target Audience : </h5>
 
