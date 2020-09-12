@@ -7,7 +7,7 @@
 <b>   <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Electronics and Communication Engineering  to which lab belongs
+<b>Discipline | <b>Electronics and Communication Engineering 
 :--|:--|
 <b> Lab | <b> Digital Communication Lab (KEC-651)
 <b> Experiment|     <b> To Study generation of Polar RZ and NRZ line Coding
@@ -21,7 +21,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Reinforce Theoretical Concept: Conversion of a binary data or sequence of bits into a digital signal i.e. Polar RZ and NRZ Line Code; Theoretical Concept. <br>
+#### 1. Focus Area : <br> Reinforce Theoretical Concept: Conversion of a binary data or sequence of bits into a digital signal i.e. Polar RZ and NRZ Line Code; Theoretical Concept. <br>
 The Focus area is to familiarize the students to the concepts of “Line Coding” by simulator of experiment and also make them able to convert a binary data into Polar RZ & NRZ Line Codes.
 
 
@@ -69,9 +69,9 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Student will be able to Describe the concept of conversion of binary signal to a Polar RZ or NRZ digital signal (Line Coding). | Student will enter the binary sequence to convert it into Polar RZ or NRZ Line code format. | Polar coding is a technique in which <br> A. 1 is transmitted by a positive pulse and 0 is transmitted by negative pulse^l <b> <br> B. 1 is transmitted by a positive pulse and 0 is transmitted by zero volts <br> C.  None of the above </b> <br>
-2.| Student will be able to generate a Polar RZ and NRZ digital signal out of a binary sequence given. | Student will enter the binary sequence to convert it into Polar RZ or NRZ Line code format. | In polar RZ format for coding, symbol '0' is represented by <br> A. Zero voltage <br> B. Negative voltage <br> C.  Pulse is transmitted for half the duration D. Both b) and c) are correct </b> <br>
-3.| Student will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics. | Student will select both options of Conversion Polar RZ and NRZ one after another and compare the both waveforms. | Between RZ and NRZ encoding techniques RZ requires higher bandwidth : A. <b> True <br> B. False <br> 
+1.| Student will be able to Describe the concept of conversion of binary signal to a Polar RZ or NRZ digital signal (Line Coding). | Student will enter the binary sequence to convert it into Polar RZ or NRZ Line code format. | Polar coding is a technique in which <br> <b> A. 1 is transmitted by a positive pulse and 0 is transmitted by negative pulse </b> <br> B. 1 is transmitted by a positive pulse and 0 is transmitted by zero volts <br> C.  None of the above <br>
+2.| Student will be able to generate a Polar RZ and NRZ digital signal out of a binary sequence given. | Student will enter the binary sequence to convert it into Polar RZ or NRZ Line code format. | In polar RZ format for coding, symbol '0' is represented by <br> A. Zero voltage <br> B. Negative voltage <br> C.  Pulse is transmitted for half the duration <br> <b> D. Both b) and c) are correct </b> <br>
+3.| Student will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics. | Student will select both options of Conversion Polar RZ and NRZ one after another and compare the both waveforms. | Between RZ and NRZ encoding techniques RZ requires higher bandwidth : <br> <b> A. True </b> <br> B. False <br> 
 
 
 
