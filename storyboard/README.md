@@ -1,16 +1,15 @@
-## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1: To study the generation of Polar RZ/NRZ line codes.
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+The experiment is to study the generation of the Polar RZ/NRZ line codes from the sequence given by the user. Student will learn the concept of ‘Line Coding and able to convert the binary data into Polar RZ/NRZ line codes and also able to compare between RZ and NRZ digital signal on the basis of their characteristics. In this experiment the simulator is designed in a way to give the Polar RZ/NRZ line codes on the basis of input entered by the User.
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+In this experiment ,we will obtain Unipolar RZ/NRZ  line codes. In Polar line coding scheme, in which positive voltage defines bit ‘1’and the zero voltage defines bit ‘0’. In RZ Polar line coding signal return to zero at the middle of the bit whereas in NRZ Polar signal does not return to zero at the middle of the bit.
+
+In this experiment simulator will provide introduction to the user about Unipolar RZ and NRZ and produce line codes on the basis of  binary sequence provided by the user.The user is asked to enter the number of bits in the sequence and also is able to enter the bits of the sequence and then click on submit followed by choosing between RZ and NRZ or both. After the experiment the  end-user will be able to understand Unipolar RZ and NRZ line codes and also able to compare between RZ and NRZ digital Signals.
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
