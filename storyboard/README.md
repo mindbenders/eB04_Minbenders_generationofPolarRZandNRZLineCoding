@@ -28,7 +28,7 @@ After submitting the information the simulator will convert the given binary seq
 
 1.Click on simulator tab.<br>
 2.Click on introduction tab.<br>
-3.Understand the concept of Unipolar RZ and NRZ line codes.<br>
+3.Understand the concept of Polar RZ and NRZ line codes.<br>
 4.Click on done.<br>
 5.Return to home screen.<br>
 6.Click on Experiment.<br>
@@ -36,7 +36,7 @@ After submitting the information the simulator will convert the given binary seq
 8.User need to enter the binary sequence of chosen length.<br>
 9.User can choose  RZ / NRZ or both line codes as depicted in simulator.<br>
 10.User will click on submit button.<br>
-11.Simulator will display Unipolar RZ/NRZ or both line codes.<br>
+11.Simulator will display Polar RZ/NRZ or both line codes.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
