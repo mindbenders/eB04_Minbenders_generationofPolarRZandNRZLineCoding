@@ -7,31 +7,65 @@ The experiment is to study the generation of the Polar RZ/NRZ line codes from th
 
 ### 2. Story:
 
-In this experiment ,we will obtain Unipolar RZ/NRZ  line codes. In Polar line coding scheme, in which positive voltage defines bit ‘1’and the zero voltage defines bit ‘0’. In RZ Polar line coding signal return to zero at the middle of the bit whereas in NRZ Polar signal does not return to zero at the middle of the bit.
+In this experiment ,we will obtain Unipolar RZ/NRZ  line codes. In Polar line coding scheme, positive voltage defines bit ‘1’and the negative voltage defines bit ‘0’. In RZ Polar line coding,signal return to zero at the middle of the bit whereas in NRZ Polar line code, signal does not return to zero at the middle of the bit.
 
 In this experiment simulator will provide introduction to the user about Polar RZ and NRZ and produce line codes on the basis of  binary sequence provided by the user.The user is asked to enter the number of bits in the sequence and also is able to enter the bits of the sequence and then click on submit followed by choosing between RZ and NRZ or both. After the experiment the  end-user will be able to understand Polar RZ and NRZ line codes and also able to compare between RZ and NRZ digital Signals.
 
 #### 2.1 Set the Visual Stage Description:
 
-In this experiment the simulator starts with the window asking the user to click on the tab of Introduction or experiment. Clicking on Introduction the simulator will provide the conceptual knowledge of Unipolar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to enter the length of the sequence and  the bits of the sequence. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking the submit button, so the user needs to enter the information carefully. After that user can choose between RZ and NRZ or both and click on submit. Also if user click on submit button without entering the information the simulator will again show the error.
+In this experiment the simulator starts with the window asking the user to click on the tab of Introduction or experiment. Clicking on Introduction the simulator will provide the conceptual knowledge of Polar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to enter the length of the sequence and  the bits of the sequence. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking the submit button, so the user needs to enter the information carefully. After that user can choose between RZ and NRZ or both and click on submit. Also if user click on submit button without entering the information the simulator will again show the error.
 
-After submitting the information the simulator will convert the given binary sequence into the Unipolar RZ/NRZ as asked and will generate the graph showing Unipolar RZ/NRZ line codes.
+After submitting the information the simulator will convert the given binary sequence into the Polar RZ/NRZ as asked and will generate the graph showing Polar RZ/NRZ line codes.
+
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+
+1.To let user sense the real world systems and let them go through the practical systems by utilizing their theoretical knowledge.<br>
+1.The end-user will be able to describe the concept of conversion of binary signal to a Polar RZ or NRZ digital signal (Line Coding).<br>
+2.The end-user will be able to generate a Polar RZ and NRZ digital signal out of a binary sequence given.<br>
+3.The end-user will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics.<br>
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1.Click on simulator tab.<br>
+2.Click on introduction tab.<br>
+3.Understand the concept of Unipolar RZ and NRZ line codes.<br>
+4.Click on done.<br>
+5.Return to home screen.<br>
+6.Click on Experiment.<br>
+7.User need to enter the length of the sequence.<br>
+8.User need to enter the binary sequence of chosen length.<br>
+9.User can choose  RZ / NRZ or both line codes as depicted in simulator.<br>
+10.User will click on submit button.<br>
+11.Simulator will display Unipolar RZ/NRZ or both line codes.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+In the experiment the user will be asked questions based on cognitive levels. The question are as followed:-
+
+Difficulty level:- Understand
+
+1.In Polar RZ format for coding, symbol '0' is represented by:-<br>
+ A. Amplitude of pulse is half<br>
+ B. Negative Voltage<br>
+ C. Pulse is transmitted for half the duration<br>
+ D. All of the above<br>
+
+
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+
+There are some pitfalls in the simulator as follows:<br>
+
+1.User need to enter the length of the sequence as asked by the simulator.<br>
+2.User then have to fill the bits of the sequence in binary form ,if not the simulator will pop an error telling to, ”enter the valid sequence”.<br>
+3.If the user leaves any field blank and click on submit button, the simulator will prompt the error to, “Kindly feed up the mandatory fields”.<br>
+4.User need to enter the matching data in both the asked mandatory fields by the simulator, failing which will pop an error telling, “Sequence length and number of bits 	differ”.<br>
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+
+The user will able to learn the concept of Polar RZ/NRZ .This experiment will assist the user to inculcate the concept and apply them to convert the binary sequence into Polar RZ/NRZ line code. This will also help the user to verify whether the system is controllable and conspicuous or not. The end-user will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics.
+
+On general basis, this experiment will take short span of time to perform  and user can  have the clear idea of the experiment by understanding the concept of Polar RZ/NRZ by reading graph.
 
 ##### 2.7 Equations/formulas: NA
 Formula for Polar RZ and NRZ line codes is :- 
@@ -58,8 +92,7 @@ If symbol 1 transmitted :-
 
       X(t) =  - A/2     for 0 <= t <= Tb 
       
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+
 
 
 ### 3. Flowchart 4
