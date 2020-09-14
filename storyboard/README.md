@@ -58,7 +58,7 @@ Difficulty level:- Apply<br>
 3.Convert binary sequence 1010 into Polar NRZ line code.<br>
 
 
-Diddiculty level:- Analyze
+Difficulty level:- Analyze
 
 4. For a line code, the transmission bandwidth must be:-<br>
  A. Maximum possible<br>
