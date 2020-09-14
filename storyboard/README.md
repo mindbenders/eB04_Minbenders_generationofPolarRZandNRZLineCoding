@@ -49,6 +49,25 @@ Difficulty level:- Understand
  B. Negative Voltage<br>
  C. Pulse is transmitted for half the duration<br>
  D. All of the above<br>
+ 
+ 
+Difficulty level:- Apply<br>
+ 
+2.Convert binary sequence 1011 into Polar RZ line code.<br>
+
+3.Convert binary sequence 1010 into Polar NRZ line code.<br>
+
+
+Diddiculty level:- Analyze
+
+4. For a line code, the transmission bandwidth must be:-<br>
+ A. Maximum possible<br>
+ B. As small as possible<br>
+ C. Depends on the signal<br>
+ D. None of the above<br>
+ 
+ 
+ 
 
 
 
