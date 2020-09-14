@@ -34,6 +34,30 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
 
 ##### 2.7 Equations/formulas: NA
+Formula for Polar RZ and NRZ line codes is :- 
+
+<b> For Polar RZ: <b> 
+      
+If symbol 1 transmitted :-
+      
+      X(t) =     A/2     for 0 <= t <= Tb/2  (half interval) 
+                   0     for Tb/2 <= t <= Tb (half interval) 
+                          
+  If symbol 0 transmitted :- <br>
+
+      X(t) =     - A/2     for 0 <= t <= Tb/2  (half interval) 
+                     0     for Tb/2 <= t <= Tb (half interval)  
+      
+<b> For Polar NRZ: <b> 
+      
+If symbol 1 transmitted :- 
+      
+      X(t) =    A/2     for 0 <= t <= Tb  
+                                           
+  If symbol 0 transmitted :-
+
+      X(t) =  - A/2     for 0 <= t <= Tb 
+      
 Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
 Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
 
