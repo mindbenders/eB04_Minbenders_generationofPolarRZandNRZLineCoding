@@ -7,7 +7,7 @@ The experiment is to study the generation of the Polar RZ/NRZ line codes from th
 
 ### 2. Story:
 
-In this experiment ,we will obtain Unipolar RZ/NRZ  line codes. In Polar line coding scheme, positive voltage defines bit ‘1’and the negative voltage defines bit ‘0’. In RZ Polar line coding,signal return to zero at the middle of the bit whereas in NRZ Polar line code, signal does not return to zero at the middle of the bit.
+In this experiment ,we will obtain Polar RZ/NRZ  line codes. In Polar line coding scheme, positive voltage defines bit ‘1’and the negative voltage defines bit ‘0’. In RZ Polar line coding,signal return to zero at the middle of the bit whereas in NRZ Polar line code, signal does not return to zero at the middle of the bit.
 
 In this experiment simulator will provide introduction to the user about Polar RZ and NRZ and produce line codes on the basis of  binary sequence provided by the user.The user is asked to enter the number of bits in the sequence and also is able to enter the bits of the sequence and then click on submit followed by choosing between RZ and NRZ or both. After the experiment the  end-user will be able to understand Polar RZ and NRZ line codes and also able to compare between RZ and NRZ digital Signals.
 
