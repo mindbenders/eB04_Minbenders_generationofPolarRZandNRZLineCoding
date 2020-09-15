@@ -18,4 +18,5 @@ After submitting the information the simulator will convert the given binary seq
 
 ### Pre Test
 ### Post Test
-### References
+### References<br>
+Modern Digital and Analog Communication Systems, 4th Edition, B. P. Lathi and Zhi Ding, Oxford University Press.
