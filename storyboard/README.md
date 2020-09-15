@@ -49,7 +49,7 @@ Difficulty level:- <b>Understand</b>
  D. All of the above<br>
  
  
-Difficulty level:- <b>Apply<br></b>
+Difficulty level:- <b>Apply</b>
  
 2.Convert binary sequence 1011 into Polar RZ line code.<br>
 
