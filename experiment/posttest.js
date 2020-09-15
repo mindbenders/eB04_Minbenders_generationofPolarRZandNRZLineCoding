@@ -120,6 +120,8 @@
         c: "Sine Pulse",
         d: "None of the above."
       },
+       correctAnswer: "a"
+    },
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
