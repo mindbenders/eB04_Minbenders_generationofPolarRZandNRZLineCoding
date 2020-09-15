@@ -90,27 +90,36 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "What is the advantages Polar line code?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Doesn't require a lot of bandwidth for transmission.",                  ///// Write the option 1 inside double quotes
+        b: "Cheap hardware.",                  ///// Write the option 2 inside double quotes
+        c: "The probability of error is much reduced.",                  ///// Write the option 3 inside double quotes
+        d: "Both (a) and (c)."                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "What is the disadvantages of Polar Line code?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "The signal droop is caused at the places where the signal is non-zero at 0 Hz.",                  ///// Write the option 1 inside double quotes
+        b: "It is simple.",                  ///// Write the option 2 inside double quotes
+        c: "No low-frequency components are present.",                  ///// Write the option 3 inside double quotes
+        d: "None of the above."                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
+    
+     {
+      question: "In Polar RZ High in data is represented by which pulse?",
+      answers: {
+        a: "Mark Pulse",
+        b: "Square Pulse",
+        c: "Sine Pulse",
+        d: "None of the above."
+      },
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
