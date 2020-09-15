@@ -1,1 +1,1 @@
-### Lab Name
+### Digital Communication (KEC-651)
