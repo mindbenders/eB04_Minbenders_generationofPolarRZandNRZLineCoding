@@ -21,7 +21,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : <br> Reinforce Theoretical Concept:-
+#### 1. Focus Area :  Reinforce Theoretical Concept:
 The Focus area is to familiarize the students to the concepts of “Line Coding” by simulator of experiment and also make them able to convert a binary data into Polar RZ & NRZ Line Codes.<br>
 Conversion of a binary data or sequence of bits into a digital signal i.e. Polar RZ and NRZ Line Code; Theoretical Concept. <br>
 
