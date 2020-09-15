@@ -1,6 +1,6 @@
 ## <b> Pre-test</b>
 #### Please attempt the following questions
-
+<br>
 1) Why do we need Line Coding Techniques?<br>
 <b>a) Transmission of a digital signal over a transmission line<br></b>
 b) Digital to Analog Conversion<br>
