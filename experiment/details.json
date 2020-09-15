@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "To Study the generation of Polar RZ and NRZ line codes.",     
+			"Lab": "Digital Communication Lab (KEC-651)",               
+			"Discipline": "Electronics and Communication Engineering",				 
+			"Technology": "Engineering"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Neeraj Joshi",         
+      "Institute": "Meerut Institute of Engineering and Technology",         
+      "InstituteAcronym": "MIET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Palash Zutshi",             
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Muskan Bhardwaj",              
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Shalini Singh",             
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Apoorv Garg",              
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
        }
    ]
 
