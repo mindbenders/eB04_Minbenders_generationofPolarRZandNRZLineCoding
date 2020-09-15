@@ -42,7 +42,7 @@ After submitting the information the simulator will convert the given binary seq
 
 In the experiment the user will be asked questions based on cognitive levels. The question are as followed:-
 
-Difficulty level:- Understand
+Difficulty level:- <b>Understand</b>
 
 1.In Polar RZ format for coding, symbol '0' is represented by:-<br>
  A. Amplitude of pulse is half<br>
@@ -51,14 +51,14 @@ Difficulty level:- Understand
  D. All of the above<br>
  
  
-Difficulty level:- Apply<br>
+Difficulty level:- <b>Apply<br></b>
  
 2.Convert binary sequence 1011 into Polar RZ line code.<br>
 
 3.Convert binary sequence 1010 into Polar NRZ line code.<br>
 
 
-Difficulty level:- Analyze
+Difficulty level:- <b>Analyze</b>
 
 4. For a line code, the transmission bandwidth must be:-<br>
  A. Maximum possible<br>
@@ -78,7 +78,7 @@ There are some pitfalls in the simulator as follows:<br>
 1.User need to enter the length of the sequence as asked by the simulator.<br>
 2.User then have to fill the bits of the sequence in binary form ,if not the simulator will pop an error telling to, ”enter the valid sequence”.<br>
 3.If the user leaves any field blank and click on submit button, the simulator will prompt the error to, “Kindly feed up the mandatory fields”.<br>
-4.User need to enter the matching data in both the asked mandatory fields by the simulator, failing which will pop an error telling, “Sequence length and number of bits 	differ”.<br>
+4.User need to enter the matching data in both the asked mandatory fields by the simulator, failing which will prompt an error telling, “Sequence length and number of bits 	differ”.<br>
 
 ##### 2.6 Conclusion:
 
