@@ -42,8 +42,9 @@ a) Signal does not return to zero at the middle of the bit<br>
 b) Signal return to zero at the middle of the bit<br>
 <b>c) Both (a) and (b)<br></b>
 d) Amplitude of the signal diminishes with time<br>
-### Post Test
-#### Please attempt the following questions
+
+### Post Test<br>
+#### Please attempt the following questions<br>
 <br>
 Q 1. What is the advantages Polar line code? <br>
 <b>a. Doesn't require a lot of bandwidth for transmission.<br></b>
