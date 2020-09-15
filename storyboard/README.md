@@ -29,16 +29,14 @@ After submitting the information the simulator will convert the given binary seq
 1.Click on simulator tab.<br>
 2.Click on introduction tab.<br>
 3.Understand the concept of Polar RZ and NRZ line codes.<br>
-4.Click on done.<br>
-5.Return to home screen.<br>
 6.Click on Experiment.<br>
-7.User need to enter the length of the sequence.<br>
+7.User need to choose the length of the sequence.<br>
 8.User need to enter the binary sequence of chosen length.<br>
 9.User can choose  RZ / NRZ or both line codes as depicted in simulator.<br>
 10.User will click on submit button.<br>
 11.Simulator will display Polar RZ/NRZ or both line codes.<br>
 
-##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
+#### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 In the experiment the user will be asked questions based on cognitive levels. The question are as followed:-
 
@@ -116,14 +114,12 @@ If symbol 1 transmitted :-
 
 ### 3. Flowchart 4
 <img src="flowchart/Flowchart.png"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
+
 
 ### 4. Mindmap:
 <img src="mindmap/polar.png"/>
 
 
 ### 5. Storyboard :
-<img src="storyboard/STORYBOARD UNIPOLAR.png">
+<img src="storyboard/STORYBOARD.png">
 
