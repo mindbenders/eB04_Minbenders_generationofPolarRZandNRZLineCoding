@@ -1,1 +1,1 @@
-To Study the generation of Unipolar RZ and Nrz line codes.
+To Study the generation of Polar RZ and NRZ line codes.
