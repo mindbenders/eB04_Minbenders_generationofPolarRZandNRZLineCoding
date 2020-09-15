@@ -57,7 +57,7 @@ Difficulty level:- <b>Apply</b>
 
 
 Difficulty level:- <b>Analyze</b>
-
+<br>
 4. For a line code, the transmission bandwidth must be:-<br>
  A. Maximum possible<br>
  B. As small as possible<br>
