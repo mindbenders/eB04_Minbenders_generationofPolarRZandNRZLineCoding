@@ -90,29 +90,49 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Why do we need Line Coding Techniques? ",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Transmission of a digital signal over a transmission line",                  ///// Write the option 1 inside double quotes
+        b: "Digital to Analog Conversion",                  ///// Write the option 2 inside double quotes
+        c: "Analog to Digital Conversion",                  ///// Write the option 3 inside double quotes
+        d: "None of the options"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "What is the scheme of Unipolar Line Coding?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Positive voltage represent'1' and Zero voltage represent negative.",                  ///// Write the option 1 inside double quotes
+        b: "Positive voltage represent '0' and Zero voltage represent negative.",                  ///// Write the option 2 inside double quotes
+        c: "Positive voltage represent '1' and Zero voltage represent '0'.",                  ///// Write the option 3 inside double quotes
+        d: "None of the options"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
+    
+     {
+      question: "What is polar NRZ?",
+      answers: {
+        a: "Signal does not return to zero.",
+        b: "Signal return to zero at the middle of the bit",
+        c: "Both (a) and (b)",
+        d: "Signal is converted from Analog to Digital"
+      },
+      correctAnswer: "a"
+    },
 
-
+    {
+      question: " What is polar RZ?",
+      answers: {
+        a: " Signal does not return to zero at the middle of the bit",
+        b: "Signal return to zero at the middle of the bit ",
+        c: "Both (a) and (b)",
+        d: "Amplitude of the signal diminishes with time"
+      },
+      correctAnswer: "c"
+    },
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
 
