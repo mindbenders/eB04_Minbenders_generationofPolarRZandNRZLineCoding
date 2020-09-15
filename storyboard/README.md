@@ -1,5 +1,5 @@
 
-Experiment 1: To study the generation of Polar RZ/NRZ line codes.
+Experiment 1: To study the generation of Polar RZ and NRZ line codes.
 
 ### 1. Story Outline:
 
