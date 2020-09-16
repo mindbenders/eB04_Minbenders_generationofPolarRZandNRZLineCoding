@@ -85,7 +85,7 @@ The user will able to learn the concept of Polar RZ and NRZ .This experiment wil
 
 On general basis, this experiment will take short span of time to perform  and user can  have the clear idea of the experiment by understanding the concept of Polar RZ and NRZ by reading graph.
 
-##### 2.7 Equations/formulas: NA
+##### 2.7 Equations/formulas: 
 Formula for Polar RZ and NRZ line codes is :- 
 
 <b> For Polar RZ: </b> 
@@ -113,7 +113,7 @@ If symbol 1 transmitted :-
 
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/Flowchart.png"/><br>
 
 
