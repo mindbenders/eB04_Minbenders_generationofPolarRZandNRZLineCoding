@@ -10,7 +10,7 @@
 <b>Discipline | <b>Electronics and Communication Engineering 
 :--|:--|
 <b> Lab | <b> Digital Communication Lab (KEC-651)
-<b> Experiment|     <b> To Study generation of Polar RZ and NRZ line Coding
+<b> Experiment|     <b> 2.To Study generation of Polar RZ and NRZ line Coding
 
 
 <h4> [1. Focus Area](#LO)
