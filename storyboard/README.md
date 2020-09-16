@@ -15,7 +15,7 @@ In this experiment simulator will provide introduction to the user about Polar R
 
 In this experiment the simulator starts with the window asking the user to click on the tab of introduction or Experiment. Clicking on introduction the simulator will provide the conceptual knowledge of Polar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to choose the length of the sequence and able to enter the bits of the sequence. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking the submit button, so the user needs to enter the information carefully. After that user can choose between RZ and NRZ or both and click on submit. Also if user click on submit button without entering the information the simulator will again show the error.
 
-After submitting the information the simulator will convert the given binary sequence into the Polar RZ/NRZ as asked and will generate the graph showing Polar RZ/NRZ line codes.
+After submitting the information the simulator will convert the given binary sequence into the Polar RZ and NRZ or both as asked and will generate the graph showing Polar RZ/NRZ line codes.
 
 #### 2.2 Set User Objectives & Goals:
 
