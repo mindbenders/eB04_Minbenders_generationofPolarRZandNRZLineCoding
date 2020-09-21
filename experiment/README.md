@@ -1,4 +1,4 @@
-This folder has:-<br> 
+
 ### Aim<br>
 To Study the generation of Polar RZ and NRZ line codes.
 ### Theory<br>
@@ -6,7 +6,7 @@ Polar coding scheme uses multiple voltage level to represent binary values.
 
 1.NRZ(Non-Return-to-zero):-<br>
 
-  In NRZ Bipolar signal does not return to zero at the middle of the bit.
+  In polar NRZ signal does not return to zero at the middle of the bit.
 
 2.RZ (Return-to-zero):-<br>
 
@@ -34,60 +34,60 @@ If symbol 1 transmitted :-
   If symbol 0 transmitted :-
 
       X(t) =  - A/2     for 0 <= t <= Tb 
+ <br>     
 ### Procedure<br>
 <br>
 1. In this experiment the simulator starts with the window asking the user to click on the tab of Introduction or experiment.<br>
-2. Clicking on Introduction the simulator will provide the conceptual knowledge of Unipolar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to enter the length of the sequence and  the bits of the sequence.<br>
-3. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking the submit button, so the user needs to enter the information carefully.<br>
-4. After that user can choose between RZ and NRZ or both and click on submit. Also if the user click on submit button without entering the information, the simulator will again prompt an error.<br>
-5. After submitting the information the simulator will convert the given binary sequence into the Unipolar RZ and NRZ as asked and will generate the graph showing Polar RZ/NRZ line codes.<br>
+2. Clicking on Introduction the simulator will provide the conceptual knowledge of polar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to enter the length of the sequence and  the bits of the sequence.<br>
+3. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking RZ/NRZ/Both button, so the user needs to enter the information carefully.<br>
+4. After that user can choose among RZ, NRZ or both button. Also if the user click on RZ/NRZ/Both button without entering the information, the simulator will again prompt an error.<br>
+5. After submitting the information the simulator will convert the given binary sequence into the polar RZ and NRZ as asked and will generate the graph showing Polar RZ/NRZ line codes.<br>
 
 ### Pre Test
 #### Please attempt the following questions
 <br>
-1) Why do we need Line Coding Techniques?<br>
-<b>a) Transmission of a digital signal over a transmission line<br></b>
-b) Digital to Analog Conversion<br>
-c) Analog to Digital Conversion<br>
-d) None of the options<br>
-<br>
-2) What is the scheme of Unipolar Line Coding? <br>
-a) Positive voltage represent'1' and Zero voltage represent negative.<br>
-b) Positive voltage represent '0' and Zero voltage represent negative.<br>
-<b>c) Positive voltage represent '1' and Zero voltage represent '0'<br></b>
-d) None of the options<br>
-<br>
-3) What is polar NRZ? <br>
-<b>a) Signal does not return to zero.<br></b>
-b) Signal return to zero at the middle of the bit<br>
-c) Both (a) and (b)<br>
-d) Signal is converted from Analog to Digital<br>
-<br>
-4) What is polar RZ? <br>
-a) Signal does not return to zero at the middle of the bit<br>
-b) Signal return to zero at the middle of the bit<br>
-<b>c) Both (a) and (b)<br></b>
-d) Amplitude of the signal diminishes with time<br>
+1) Polar coding is a technique in which - <br>
+<b>A. 1 is transmitted by a positive pulse and 0 is transmitted by negative pulse.<br></b>
+B. 1 is transmitted by a positive pulse and 0 is transmitted by zero volts.<br>
+C. None of the above.<br>
 
+<br>
+2) In polar NRZ format for coding, symbol '0' is represented by<br>
+A. Zero voltage<br>
+<b>B. Negative voltage<br></b>
+C. Pulse is transmitted for half the duration<br>
+D. All options are correct<br>
+
+<br>
+3) In Polar RZ format for coding, symbol '0' is represented by:-<br>
+A. Amplitude of pulse is half.<br>
+B. Negative Voltage.<br>
+C. Pulse is transmitted for half the duration.<br>
+<b>D. All of the above.<br></b>
+<br>
 ### Post Test<br>
 #### Please attempt the following questions<br>
 <br>
-Q 1. What is the advantages Polar line code? <br>
-<b>a. Doesn't require a lot of bandwidth for transmission.<br></b>
-b. Cheap hardware.<br>
-c. The probability of error is much reduced.<br>
-d. Both (a) and (c).<br><br>
+Q 1. In which waveform logic '1' and logic '0' are represented by opposite signs and half bit wide pulses?<br>
+A. Unipolar RZ<br>
+<b>B. Polar RZ<br></b>
+C. RZ-AMI<br>
+D. Manchester Coding<br>
 
-Q 2. What is the disadvantages of Polar Line code?<br>
-a. The signal droop is caused at the places where the signal is non-zero at 0 Hz<br>
-b. It is simple. <br>
-c. No low-frequency components are present.<br></b>
-<b>d. None of the options<br></b>
+Q 2. The disadvantages of polar RZ Signaling are −<br>
+A. No error correction<br>
+B. No Clock<br>
+C. Occupies twice the Bandwidth of Polar NRZ<br>
+<b>D. All of the above<br></b>
+<br>
 
-Q 3. In Polar RZ High in data is represented by which pulse?<br>
-<b>a. Mark Pulse<br></b>
-b. Square Pulse<br>
-c. Sine pulse<br>
-d. None Of the above<br>
+Q 3. For a line code, the transmission bandwidth must be:-<br>
+A. Maximum possible<br>
+<b>B. As small as possible<br></b>
+C. Depends on the signal<br>
+D. None of the above<br>
+
 ### References<br>
-Modern Digital and Analog Communication Systems, 4th Edition, B. P. Lathi and Zhi Ding, Oxford University Press.
+1. "Modern Digital and Analog Communication Systems", 4th Edition, B. P. Lathi and Zhi Ding, Oxford University Press.<br>
+2. “Principles Of Communication Systems”, Herbert Taub, Donald L Schilling, Goutam Saha, Tata McGraw Hill Publishing House.<br>
+3. “Digital Communications”, Simon Haykin, Wiley India.<br>
