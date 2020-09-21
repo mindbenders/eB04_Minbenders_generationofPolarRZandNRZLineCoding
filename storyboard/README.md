@@ -9,7 +9,7 @@ The experiment is to study the generation of the Polar RZ and NRZ line codes fro
 
 In this experiment ,we will obtain Polar RZ and NRZ  line codes. In Polar line coding scheme, positive voltage defines bit ‘1’and the negative voltage defines bit ‘0’. In RZ Polar line coding,signal return to zero at the middle of the bit whereas in NRZ Polar line code, signal does not return to zero at the middle of the bit.
 
-In this experiment simulator will provide introduction to the user about Polar RZ and NRZ and produce line codes on the basis of binary sequence provided by the user.The user is asked to choose the number of bits in the sequence and also able to enter the bits of the sequence and then click on submit followed by choosing between RZ and NRZ or both. After the experiment the  end-user will be able to understand Polar RZ and NRZ line codes and also able to compare between RZ and NRZ digital Signals.
+In this experiment simulator will provide introduction to the user about Polar RZ and NRZ and produce line codes on the basis of binary sequence provided by the user.The user is asked to choose the number of bits in the sequence and also able to enter the bits of the sequence and then click on RZ, NRZ or both. After the experiment the user will be able to understand Polar RZ and NRZ line codes and also able to compare between RZ and NRZ digital Signals.
 
 #### 2.1 Set the Visual Stage Description:
 
@@ -19,10 +19,9 @@ After submitting the information the simulator will convert the given binary seq
 
 #### 2.2 Set User Objectives & Goals:
 
-1.To let user sense the real world systems and let them go through the practical systems by utilizing their theoretical knowledge.<br>
-1.The end-user will be able to describe the concept of conversion of binary signal to a Polar RZ or NRZ digital signal (Line Coding).<br>
-2.The end-user will be able to generate a Polar RZ and NRZ digital signal out of a binary sequence given.<br>
-3.The end-user will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics.<br>
+1.The user will be able to describe the concept of conversion of binary signal to a Polar RZ or NRZ digital signal (Line Coding).<br>
+2.The user will be able to generate a Polar RZ and NRZ digital signal out of a binary sequence given.<br>
+3.The user will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics.<br>
 
 #### 2.3 Set the Pathway Activities:
 
@@ -34,8 +33,7 @@ After submitting the information the simulator will convert the given binary seq
 6.User need to choose the length of the sequence.<br>
 7.User need to enter the binary sequence of chosen length.<br>
 8.User can choose  RZ / NRZ or both line codes as depicted in simulator.<br>
-9.User will click on submit button.<br>
-10.Simulator will display Polar RZ/NRZ or both line codes.<br>
+9.Simulator will display Polar RZ/NRZ or both line codes.<br>
 
 #### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
@@ -47,7 +45,7 @@ Difficulty level:- <b>Understand</b>
  A. Amplitude of pulse is half<br>
  B. Negative Voltage<br>
  C. Pulse is transmitted for half the duration<br>
- D. All of the above<br>
+ <b>D. All of the above<br></b>
  
  
 Difficulty level:- <b>Apply</b>
@@ -61,7 +59,7 @@ Difficulty level:- <b>Analyze</b>
 <br>
 4. For a line code, the transmission bandwidth must be:-<br>
  A. Maximum possible<br>
- B. As small as possible<br>
+ <b>B. As small as possible<br></b>
  C. Depends on the signal<br>
  D. None of the above<br>
  
