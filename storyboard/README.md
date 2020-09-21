@@ -13,7 +13,7 @@ In this experiment simulator will provide introduction to the user about Polar R
 
 #### 2.1 Set the Visual Stage Description:
 
-In this experiment the simulator starts with the window asking the user to click on the tab of introduction or Experiment. Clicking on introduction the simulator will provide the conceptual knowledge of Polar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to choose the length of the sequence and able to enter the bits of the sequence. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking the submit button, so the user needs to enter the information carefully. After that user can choose between RZ and NRZ or both and click on submit. Also if user click on submit button without entering the information the simulator will again show the error.
+In this experiment the simulator starts with the window asking the user to click on the tab of introduction or Experiment. Clicking on introduction the simulator will provide the conceptual knowledge of Polar RZ and NRZ line codes after that user will reach to the experiment part where user is asked to choose the length of the sequence and able to enter the bits of the sequence. In any how, if the user does not enter binary digits or enter mismatch information the simulator will prompt an error after clicking the RZ/NRZ/Both button, so the user needs to enter the information carefully. After that user can Click among RZ and NRZ or both button. 
 
 After submitting the information the simulator will convert the given binary sequence into the Polar RZ and NRZ or both as asked and will generate the graph showing Polar RZ/NRZ line codes.
 
@@ -74,12 +74,12 @@ There are some pitfalls in the simulator as follows:<br>
 
 1.User need to enter the length of the sequence as asked by the simulator.<br>
 2.User then have to fill the bits of the sequence in binary form ,if not the simulator will pop an error telling to, ”enter the valid sequence”.<br>
-3.If the user leaves any field blank and click on submit button, the simulator will prompt the error to, “Kindly feed up the mandatory fields”.<br>
+3.If the user leaves any field blank and click on RZ/NRZ/Both button, the simulator will prompt the error to, “Kindly feed up the mandatory fields”.<br>
 4.User need to enter the matching data in both the asked mandatory fields by the simulator, failing which will prompt an error telling, “Sequence length and number of bits 	differ”.<br>
 
 ##### 2.6 Conclusion:
 
-The user will able to learn the concept of Polar RZ and NRZ .This experiment will assist the user to inculcate the concept and apply them to convert the binary sequence into Polar RZ and NRZ line code. This will also help the user to verify whether the system is controllable and conspicuous or not. The end-user will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics.
+The user will able to learn the concept of Polar RZ and NRZ .This experiment will assist the user to inculcate the concept and apply them to convert the binary sequence into Polar RZ and NRZ line code. The end-user will be able to compare between Polar RZ and NRZ digital signal on the basis of their characteristics.
 
 On general basis, this experiment will take short span of time to perform  and user can  have the clear idea of the experiment by understanding the concept of Polar RZ and NRZ by reading graph.
 
