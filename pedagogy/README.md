@@ -94,8 +94,8 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will press the introduction button. | Simulator will give the idea of binary sequence to Polar RZ nad NRZ conversion.| Student wil be able to describe the concept  of Polar RZ and NRZ line coding.
+1.| Student will press the introduction button. | Simulator will give the idea of binary sequence to Polar RZ and NRZ conversion.| Student wil be able to describe the concept  of Polar RZ and NRZ line coding.
 2.| Student will press the experiment button and enter the length of binary sequence | Simulator will store the length of binary sequence  | Student is able to find the length of binary sequence.
 3.| Student will enter the binary sequence | Simulator will accept the binary sequence  | Purpose is to enter the binary sequence which student want to convert.
-4.| Student will select the Option out of RZ or NRZ | Simulator will decide that to which format it will convert the digital data | Purpose is to make a decision to convert binary sequence.
-5.| Student will enter the both button and will get the desired digital sequence | Simulator will convert the entered sequence by student to both Unipolar RZ and NRZ code.  | Purpose is to compare both Polar RZ and NRZ digital sequences.
+4.| Student will click any of RZ or NRZ Button and will get the desired digital sequence. | Simulator will decide that to which format it will convert the digital data | Purpose is to make a decision to convert binary sequence.
+5.| Student will click both button and will get the both digital sequences. | Simulator will convert the entered sequence by student to both Polar RZ and NRZ code.  | Purpose is to compare both Polar RZ and NRZ digital sequences.
