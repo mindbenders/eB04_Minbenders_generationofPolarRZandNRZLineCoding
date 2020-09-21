@@ -73,7 +73,7 @@ A. Unipolar RZ<br>
 <b>B. Polar RZ<br></b>
 C. RZ-AMI<br>
 D. Manchester Coding<br>
-
+<br>
 Q 2. The disadvantages of polar RZ Signaling are −<br>
 A. No error correction<br>
 B. No Clock<br>
