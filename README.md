@@ -6,11 +6,11 @@
 <b>Discipline | <b>Electronic and Communication Engineering
 :--|:--|
 <b> Lab | <b> Digital Communication Lab
-<b> Experiment|     <b> 2. To Study the generation of Polar RZ and NRZ Line Coding
+<b> Experiment|     <b> To Study the generation of Polar RZ and NRZ Line Coding
 
 <h5> About the Lab (Objective) : </h5>
 
- In Digital Communication Lab (KEC-651) students will be able to:<br>
+ In Digital Communication Lab students will be able to:<br>
 1.	Demonstrate various line coding Techniques.<br>
 2.	Analyze the performance of various digital communication systems.<br> 
 3.	Detect and correct error is transmitted or received bits using various coding schemes.<br>
